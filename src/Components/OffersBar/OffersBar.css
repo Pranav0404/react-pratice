@@ -1,0 +1,18 @@
+:root{
+    --offWhite: #FAF1E6;
+    --skyBlue: #87CEEB;
+    --darkBlue: #172D3B;
+    --pink: #FC3468;
+}
+
+.OffersBar{
+    height: 3vh;
+    width: 100vw;
+    margin: 0px;
+    padding: 0px;
+    background-color: var(--pink);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-weight: 600;
+}
